@@ -10,7 +10,7 @@
   "gameSpeed": 1.3,
   "runSpeed": 2,
   "maxHeartbeatInterval": 300000,
-  "verbose": true,
+  "verbose": false,
   "WIDTH": 2900,
   "HEIGHT": 2900,
   "MODE": "ffa",

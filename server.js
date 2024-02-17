@@ -5256,7 +5256,7 @@ var maintainloop = (() => {
         for (let i=Math.ceil(roidcount * 0.3); i; i--) { count++; placeRoid('roid', Class.babyObstacle); }
         for (let i=Math.ceil(rockcount * 0.8); i; i--) { count++; placeRoid('rock', Class.obstacle); }
         for (let i=Math.ceil(rockcount * 0.5); i; i--) { count++; placeRoid('rock', Class.babyObstacle); }
-        util.log('Placing ' + count + ' obstacles!');
+      //  util.log('Placing ' + count + ' obstacles!');
     }
     placeRoids();
     // Spawning functions
